@@ -225,7 +225,6 @@ Deploying a complete application using Kubernetes while following production-ori
 - Secrets
 - Persistent Volumes
 - Horizontal Pod Autoscaler
-- Ingress
 - Kubernetes networking
 
 **Repository:** *https://github.com/rahulmoorthy786/devboard/tree/feat/k8s*
