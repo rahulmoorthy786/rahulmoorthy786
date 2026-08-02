@@ -1,33 +1,42 @@
-````markdown
+<div align="center">
+
 # Rahul Thandavmoorthy
 
 ### Cloud & DevOps Engineer
 
 **AWS Certified Solutions Architect – Associate**
 
-I'm a Cloud & DevOps Engineer with a strong Linux and system administration background. I enjoy building reliable cloud infrastructure, automating deployments, and improving software delivery through DevOps practices. Most of what I learn comes from building projects, solving real problems, and documenting the journey along the way.
+Building cloud infrastructure, automating deployments, and learning through real-world projects.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode)](https://YOUR_HASHNODE.hashnode.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-rahulmoorthy786-181717?style=for-the-badge&logo=github)](https://github.com/rahulmoorthy786)
+
+</div>
 
 ---
 
-## About Me
+# About Me
 
-I've always believed that the best way to learn technology is by using it.
+Hi, I'm Rahul.
 
-Rather than only reading documentation or following tutorials, I build projects that bring multiple technologies together. That's how I've been learning Docker, Kubernetes, Terraform, CI/CD, AWS, and DevSecOps—by creating applications, deploying them, breaking them, fixing them, and improving them.
+I come from a Linux and system administration background and have been expanding my skills into Cloud and DevOps engineering.
 
-I'm currently focused on strengthening my cloud engineering and automation skills while building projects that reflect real-world deployment practices.
+I enjoy building projects that combine cloud infrastructure, automation, containers, CI/CD, and Infrastructure as Code. Rather than only studying concepts, I prefer putting them into practice by building complete applications and deployment pipelines.
+
+At the moment I'm focused on strengthening my AWS, Kubernetes, Terraform, and DevSecOps skills while continuing to document everything I learn.
 
 ---
 
-## Currently Learning
+# Currently Learning
 
-- AWS Cloud Services
+- AWS
 - Terraform
 - Docker
 - Kubernetes
 - Jenkins
 - GitHub Actions
-- Linux Administration
+- Linux
 - Ansible
 - Python
 - DevSecOps
@@ -36,96 +45,177 @@ I'm currently focused on strengthening my cloud engineering and automation skill
 
 # Technical Skills
 
-## Cloud
+### Cloud
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
----
+### Infrastructure as Code
 
-## Infrastructure as Code
+<p>
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+</p>
 
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+### Containers
 
----
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
 
-## Containers & Orchestration
+### CI/CD
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
 
----
+### Operating Systems
 
-## CI/CD
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+</p>
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### Programming
 
----
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
 
-## Operating Systems
+### Version Control
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-
----
-
-## Programming & Scripting
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
----
-
-## Version Control
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
 # Featured Projects
 
-| Project | Description | Technologies | What I Learned |
-|----------|-------------|--------------|----------------|
-| **DevBoard** | A production-style three-tier application built to practice modern DevOps workflows from development to deployment. | Docker, Docker Compose, GitHub Actions, AWS, CI/CD, DevSecOps | Multi-container applications, automated pipelines, cloud deployment, security scanning, and production-style workflows. |
-| **Two-Tier Flask Application** | A Flask and MySQL application packaged with Docker and automated through CI/CD. | Flask, Docker, MySQL, GitHub Actions | Container networking, image creation, health checks, automation, and deployment fundamentals. |
-| **Kubernetes Deployment Project** | Deploying a complete application using Kubernetes best practices. | Kubernetes, Docker | Deployments, StatefulSets, Services, ConfigMaps, Secrets, Persistent Volumes, Horizontal Pod Autoscaler, and Ingress. |
-| **Terraform AWS Infrastructure** | Provisioning AWS infrastructure using reusable Terraform modules and Infrastructure as Code practices. | Terraform, AWS | Modular Terraform design, reusable infrastructure, remote state concepts, and infrastructure automation. |
-| **Upcoming Projects** | Expanding into cloud-native tooling and GitOps workflows. | EKS, Helm, ArgoCD, Prometheus, Grafana, ECS | Continuing to explore scalable infrastructure, monitoring, and GitOps practices. |
+## DevBoard
+
+A production-style three-tier application built to practice modern DevOps workflows from development to deployment.
+
+**Technologies**
+
+- Docker
+- Docker Compose
+- AWS
+- GitHub Actions
+- CI/CD
+- DevSecOps
+
+**Key Takeaways**
+
+- Multi-container applications
+- Automated CI/CD pipelines
+- Docker image publishing
+- Security scanning
+- Cloud deployment
+- Production-style workflows
 
 ---
 
-# Certifications
+## Two-Tier Flask Application
+
+A containerized Flask and MySQL application demonstrating Docker fundamentals and CI/CD automation.
+
+**Technologies**
+
+- Flask
+- Docker
+- MySQL
+- GitHub Actions
+
+**Key Takeaways**
+
+- Docker networking
+- Health checks
+- Multi-stage Docker builds
+- Image optimization
+- Automated deployments
+
+---
+
+## Kubernetes Deployment Project
+
+Deploying a complete application on Kubernetes using production-oriented resources.
+
+**Technologies**
+
+- Kubernetes
+- Docker
+
+**Key Takeaways**
+
+- Deployments
+- StatefulSets
+- Services
+- ConfigMaps
+- Secrets
+- Persistent Volumes
+- Horizontal Pod Autoscaler
+- Ingress
+
+---
+
+## Terraform AWS Infrastructure
+
+Provisioning AWS infrastructure using reusable Terraform modules.
+
+**Technologies**
+
+- Terraform
+- AWS
+
+**Key Takeaways**
+
+- Infrastructure as Code
+- Reusable modules
+- Remote state
+- Resource dependencies
+- Best practices
+
+---
+
+## Coming Next
+
+- Amazon EKS
+- Helm
+- ArgoCD
+- GitOps
+- Amazon ECS
+- Prometheus
+- Grafana
+- DevSecOps Projects
+
+---
+
+# Certification
 
 | Certification | Status |
-|--------------|--------|
-| AWS Certified Solutions Architect – Associate | ✅ Certified |
+|---------------|--------|
+| AWS Certified Solutions Architect – Associate | ✅ |
 
 ---
 
-# GitHub Stats
+# GitHub Statistics
 
-> Replace `yourusername` with your GitHub username.
+<p align="center">
 
-### GitHub Statistics
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulmoorthy786&show_icons=true&theme=github_dark&hide_border=true"/>
 
-```markdown
-https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark
-```
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulmoorthy786&theme=github-dark&hide_border=true"/>
 
-### GitHub Streak
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmoorthy786&layout=compact&theme=github_dark&hide_border=true"/>
 
-```markdown
-https://streak-stats.demolab.com?user=yourusername&theme=github-dark
-```
-
-### Most Used Languages
-
-```markdown
-https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark
-```
+</p>
 
 ---
 
@@ -133,24 +223,38 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layo
 
 | Platform | Link |
 |----------|------|
-| LinkedIn | https://linkedin.com/in/your-profile |
-| Hashnode | https://yourblog.hashnode.dev |
-| GitHub | https://github.com/rahulmoorthy786 |
-| Email | your-email@example.com |
+| LinkedIn | [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/rahul-thandavmoorthy01/) |
+| Hashnode | [https://YOUR_HASHNODE.hashnode.dev](https://hashnode.com/@rahuldeploys) |
+| GitHub | [https://github.com/rahulmoorthy786](https://github.com/rahulmoorthy786) |
+| Email | rahulmoorthy86@gmail.com |
 
 ---
 
 # Fun Facts
 
-- I enjoy automating repetitive tasks whenever possible.
-- I prefer learning through hands-on projects instead of only reading documentation.
-- Linux is my primary operating system.
-- I like documenting what I learn through blogs and GitHub projects.
-- Every project teaches me something new, and I try to carry those lessons into the next one.
+- I enjoy automating repetitive tasks.
+- Linux is my daily operating system.
+- I learn best by building projects.
+- I document what I learn through blogs and GitHub.
+- Every new project teaches me something I can apply to the next one.
 
 ---
 
-# Quote
+# Current Focus
 
-> *"The best way to understand technology is to build with it, break it, fix it, and build it again."*
-````
+```
+AWS
+Terraform
+Docker
+Kubernetes
+GitHub Actions
+Jenkins
+Linux
+Python
+Ansible
+DevSecOps
+```
+
+---
+
+> **"The best way to learn technology is to build something with it."**
